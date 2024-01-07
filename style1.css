@@ -1,0 +1,25 @@
+
+
+
+
+
+
+@media (max-width:960px) {
+    
+    .right-top{
+        display: none;
+    }
+
+
+    .link{
+        display: none;
+    }
+
+    .input{
+        display: none;
+    }
+
+    /* .logo img{
+        margin-left: 100px;
+    } */
+}
